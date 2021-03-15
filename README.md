@@ -21,7 +21,7 @@ This technical test is to assess the following:
 3. Add your codes, documentation and/or plot in the jupyter notebooks.
 4. Save your notebooks and output files (if any) in `submit/` folder.
 5. When you are done, commit and push your code to your repository.
-6. Create a Pull Request to this repository.
+6. Create a Pull Request to this repository with your name in the comment.
 7. Please make your submission within 1 week from the day you receive this test.
 8. If you are not sure of any of the intructions, please exercise your own judgement and proceed accordingly.
 9. For non-test related queries, please contact traci.lim@sap.com, xi.isaac.chan@sap.com or ray.han@sap.com.
